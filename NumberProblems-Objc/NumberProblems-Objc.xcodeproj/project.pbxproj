@@ -380,6 +380,7 @@
 				71DFBAD1199DD6B500EDF167 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71DFBAD2199DD6B500EDF167 /* Build configuration list for PBXNativeTarget "NumberProblems-ObjcTests" */ = {
 			isa = XCConfigurationList;
@@ -388,6 +389,7 @@
 				71DFBAD4199DD6B500EDF167 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
